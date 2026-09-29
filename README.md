@@ -1,0 +1,2 @@
+# reciprocal.py
+reciprocal theorem
